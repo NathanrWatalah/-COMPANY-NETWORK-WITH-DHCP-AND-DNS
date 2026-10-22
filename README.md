@@ -462,6 +462,6 @@ Recommended screenshots:
 
 Save your Packet Tracer file as:
 
-`Project3-Company-Network-DHCP-DNS.pkt`
+`Company-Network-DHCP-DNS.pkt`
 
 **Project status:** Complete after you configure the devices, run the tests, and capture the evidence.
